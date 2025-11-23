@@ -1,0 +1,12 @@
+.DS_Store
+src/__pycache__/*
+.venv
+out
+src/PII_Redacted_Transcripts_aixblock-automotive-stereo-inbound-104h/*
+Agents.md
+
+# Ignore model artifacts
+/out*
+/out_*
+*.safetensors
+*.bin
